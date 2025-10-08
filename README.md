@@ -45,19 +45,23 @@ This project combines **state-of-the-art NLP models** with an intuitive user int
 ```bash
 git clone https://github.com/<your-username>/song-lyrics-emotion-analyzer.git
 cd song-lyrics-emotion-analyzer
+```
 
 ### 2️⃣ Create a virtual environment (optional but recommended)
 ```bash
 python -m venv venv
 source venv/bin/activate   # On Mac/Linux
 venv\Scripts\activate      # On Windows
+```
 
 ### 3️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
+```
 
 ### 4️⃣ Run the Streamlit app
 ```bash
 streamlit run app.py
+```
 
 ## Then open the local URL (default: http://localhost:8501).
