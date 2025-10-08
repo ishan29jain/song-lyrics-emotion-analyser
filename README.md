@@ -72,10 +72,10 @@ streamlit run app.py
 
 ### Input Lyrics:
 ```bash
-I\'m in love with the shape of you
+I'm in love with the shape of you
 We push and pull like a magnet do
 Although my heart is falling too
-I\'m in love with your body
+I'm in love with your body
 ```
 
 ### Output:
