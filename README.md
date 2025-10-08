@@ -66,9 +66,11 @@ streamlit run app.py
 
 ### Then open the local URL (default: http://localhost:8501).
 
-##🎨 Sample Output
+---
 
-###Input Lyrics:
+## 🎨 Sample Output
+
+### Input Lyrics:
 ```bash
 I'm in love with the shape of you
 We push and pull like a magnet do
@@ -76,7 +78,7 @@ Although my heart is falling too
 I'm in love with your body
 ```
 
-###Output:
+### Output:
 ```bash
 🎭 Predicted Emotion: LOVE (92.3%)
 🧭 Sentiment: Positive 😊
