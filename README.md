@@ -36,6 +36,17 @@ This project combines **state-of-the-art NLP models** with an intuitive user int
 | Sentiment Model | VADER (NLTK) |
 | Visualization | Matplotlib, Streamlit Charts |
 
+---
+
+## 📁 Project Structure
+```
+song-lyrics-emotion-analyzer/
+│
+├── app.py # Streamlit app
+├── requirements.txt # Dependencies
+├── README.md # Project documentation
+└── sample_lyrics.txt # (Optional) Test data file
+```
 
 ---
 
@@ -83,3 +94,17 @@ I'm in love with your body
 🎭 Predicted Emotion: LOVE (92.3%)
 🧭 Sentiment: Positive 😊
 ```
+
+---
+
+## 📚 Future Improvements
+
+- 🎵 Fine-tune the model on real song lyric datasets
+- 🗣️ Add multilingual lyric support
+- 🌐 Deploy on Streamlit Cloud or Hugging Face Spaces
+
+---
+
+## 👨‍💻 Author
+Ishan Jain
+🎓 B.Tech (AI & ML), Manipal University Jaipur
